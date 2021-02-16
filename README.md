@@ -11,8 +11,8 @@ Section | Description
 [Licence](#licence) | Licence for the source code
 
 ## Screenshot
-![Screenshot of working README Generator](/Develop/Screenshot_of_README_File.PNG)
-![Screenshot of working README Generator Prompts](/Develop/Screenshot_of_Terminal_Prompts.PNG)
+![Screenshot of working README Generator](/Assets/Screenshot_of_README_File.PNG)
+![Screenshot of working README Generator Prompts](/Assets/Screenshot_of_Terminal_Prompts.PNG)
 
 
 You can access the site via [this link](https://kvtemadden.github.io/README-generator/)
