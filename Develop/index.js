@@ -4,7 +4,7 @@ const markdown = require("./utils/generateMarkdown");
 const fs = require('fs');
 
 // Questions for user input
-const questions = ["What's your GitHub username?", "What's your email address?", "What's the title of your project?", "Enter a description of your project", "How do users install your project?", "How do users use your project?", "List the contributor information", "Tell us how to test your project", "What licence does your project use?","What's the link to your GitHub profile?"];
+const questions = ["What's your GitHub username?", "What's your email address?", "What's the title of your project?", "Enter a description of your project", "How do users install your project?", "How do users use your project?", "How can people contribute to this project?", "Tell us how to test your project", "What licence does your project use?","What's the link to your GitHub profile?"];
 
 // Function to write a physical README file
 function writeToFile(fileName, data) {
