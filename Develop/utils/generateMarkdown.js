@@ -34,7 +34,7 @@ function renderLicenseLink(license) {
 // If there is no license, return an empty string
 function renderLicenseSection(license) {
   if (license !== "Other") {
-  let licenseType = renderLicenseBadge(license) + renderLicenseLink(license);
+  let licenseType = "## Licence\n\n" + renderLicenseBadge(license) + renderLicenseLink(license);
   return licenseType;
   }
   else {
