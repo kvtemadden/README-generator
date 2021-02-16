@@ -57,9 +57,9 @@ function init() {
             name: 'testing',
         },
         {
-            type: 'checkbox',
+            type: 'list',
             message: questions[8],
-            name: 'licence',
+            name: 'license',
             choices: ['MIT', 'Creative Commons', 'GPL', 'Other'],
         }
     ])
