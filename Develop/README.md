@@ -1,4 +1,5 @@
 # Good README Generator
+ ## Licence
   ![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)
 
 > This project was created under the standard MIT licence.
